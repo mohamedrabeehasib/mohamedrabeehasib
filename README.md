@@ -1,4 +1,4 @@
-<h1 align="left">HeyBOSS MODE</h1>
+<h1 align="left">BOSS MODE</h1>
 
 ###
 

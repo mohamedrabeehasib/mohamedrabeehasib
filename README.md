@@ -1,6 +1,6 @@
 <h1 align="left">BOSS MODE</h1>
 
-<h2 align="left">My name is mohamed hasib</h2>
+<h2 align="left">my name is mohamed hasib</h2>
 <h2 align="left">flutter developer</h2>
 
 <div align="left">

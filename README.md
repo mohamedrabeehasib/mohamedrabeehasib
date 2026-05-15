@@ -1,10 +1,8 @@
 <h1 align="left">BOSS MODE</h1>
 
-###
 <h2 align="left">My name is mohamed hasib</h2>
-###
 <h2 align="left">flutter developer</h2>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -18,4 +16,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-###
+

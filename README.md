@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/mohamedrabeehasib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -103,8 +103,8 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 
 ## 📫 Contact Me
 
-- 📧 Email: yourmail@example.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- 📧 Email: mohamedhasib1010@gmail.com
+- 💼 LinkedIn: 
 
 ---
 

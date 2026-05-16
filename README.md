@@ -75,14 +75,6 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedrabeehasib&theme=tokyonight&row=1"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: mohamedhasib1010@gmail.com

@@ -57,16 +57,6 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrabeehasib&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrabeehasib&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">

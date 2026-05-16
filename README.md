@@ -32,7 +32,7 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,IntelliJIDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,IntelliJ" />
 </p>
 
 ---

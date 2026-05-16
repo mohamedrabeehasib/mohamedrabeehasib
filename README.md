@@ -60,9 +60,9 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrabeehasib&show_icons=true&theme=tokyonight" height="180em"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrabeehasib&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=mohamedrabeehasib&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedrabeehasib&theme=tokyonight&row=1"/>
 </p>
 
 ---

@@ -27,7 +27,7 @@ Passionate about building high-quality mobile applications using Flutter & Dart.
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### Tools & Technologies

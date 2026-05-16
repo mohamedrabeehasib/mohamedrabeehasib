@@ -1,24 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Mohamed%20Hasib&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20📱&descAlignY=58&descAlign=50" />
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohamedrabeehasib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.facebook.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-# 👋 Hi, I'm Mohamed Haseeb
+# 👋 Hi, I'm Mohamed Hasib
 
 ### Flutter Developer 📱
 
